@@ -1,8 +1,10 @@
 # ruby
 
 > 上次看这个[教程](https://guides.rubyonrails.org/getting_started.html)应该是高中...然后是大二左右吧
+> 0519 进度 https://guides.rubyonrails.org/getting_started.html#crudit-where-crudit-is-due
 
 ## start
+
 
 ```bash
 ruby --version
