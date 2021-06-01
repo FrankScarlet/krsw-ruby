@@ -1,7 +1,7 @@
 # ruby
 
 > 上次看这个[教程](https://guides.rubyonrails.org/getting_started.html)应该是高中...然后是大二左右吧
-> 0519 进度 https://guides.rubyonrails.org/getting_started.html#crudit-where-crudit-is-due
+> 0601 进度 https://guides.rubyonrails.org/getting_started.html#adding-a-second-model
 
 ## start
 
@@ -23,4 +23,7 @@ If you're using Windows Subsystem for Linux then there are currently some limita
 $ gem sources --add https://gems.ruby-china.com/ --remove https://rubygems.org/
 $ gem sources -l
 $ bundle config mirror.https://rubygems.org https://gems.ruby-china.com
+
+# 直接拉下来项目的时候，估计要重新运行
+$ bundle install
 ```
